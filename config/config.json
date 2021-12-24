@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x455570025Fda57A354d2ae64A04cFFf1F3ca0252",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x455570025fda57a354d2ae64a04cfff1f3ca0252",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Bear",
+  "SYMBOL": "BBBBEAR",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
